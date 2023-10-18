@@ -1,0 +1,6 @@
+# On Windows, text files have CRLF at the end of each file; on macOS and Linux,
+# text files have LF at the end of each file. The following line configures Git
+# to store the file with LF at the end, but automatically normalize to CRLF
+# or LF, depending on the operating system, when the file is "checked out".
+# More info: https://git-scm.com/docs/gitattributes#_end_of_line_conversion
+* text=auto
