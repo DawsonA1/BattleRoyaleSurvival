@@ -1,4 +1,4 @@
-# BattleRoyaleSurvival
+# Battle Royale Survival
 
 Title tenative.
 
